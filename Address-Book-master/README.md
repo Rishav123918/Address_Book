@@ -29,5 +29,4 @@ The MVC pattern is used in this project, where the model, the view and the contr
 *  Password validation when creating a new user account
 
 **Details:** <br>
-URL link to see the web application: https://www.youtube.com/watch?v=u6byd9ZmMUo&feature=youtu.be <br>
 The web application is usually located at https://localhost:5001/ after building the server, can also be port 5000
